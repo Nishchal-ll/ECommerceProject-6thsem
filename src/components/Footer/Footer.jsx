@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from '../../assets/logo.png';
 import { Link } from 'react-router-dom';
-
 export default function Footer() {
   return (
     <footer className="bg-white  shadow-sm dark:bg-gray-900 ">
@@ -22,17 +21,17 @@ export default function Footer() {
           </a>
           <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
             <li>
-              <Link to="/about" className="hover:underline me-4 md:me-6">
+              <Link to="/about"className="hover:underline me-4 md:me-6">
                 About
               </Link>
             </li>
             <li>
-              <Link to="/shop" className="hover:underline me-4 md:me-6">
+              <Link to="/shop"className="hover:underline me-4 md:me-6">
                 Shop
               </Link>
             </li>
             <li>
-              <Link to="/contact" className="hover:underline">
+              <Link to="/contact"className="hover:underline">
                 Contact
               </Link>
             </li>
