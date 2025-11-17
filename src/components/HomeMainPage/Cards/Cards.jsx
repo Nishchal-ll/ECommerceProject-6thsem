@@ -31,3 +31,4 @@ export default function CategoryCards() {
     </div>
   );
 }
+// Updated the className for h3 to have text-3xl for better visibility of category names
