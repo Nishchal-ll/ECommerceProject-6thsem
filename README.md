@@ -59,4 +59,6 @@ Admins can manage products, process orders, and update their delivery status —
 ---
 
 
+## Author
+- **Nishchal Acharya** - [Portfolio & Projects](https://www.acharyanishchal.com.np)
 
